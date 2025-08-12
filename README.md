@@ -8,23 +8,23 @@
 
 ## 🚀 About Me
 - **경력**: 금융권 SI 프로젝트 1년 7개월 (백엔드 & 프론트엔드)
-- **주요 기술**: Java, Spring Boot, JavaScript, React, MySQL, Git
+- **주요 기술**: Java, Spring Boot, JavaScript, React, MySQL, Git, Node.js
 - **관심 분야**: 대규모 서비스 아키텍처, 성능 최적화, 사용자 경험 개선
 - **현재 활동**:
   - 영어 스피킹 학습 (해외 협업 대비)
   - 알고리즘 문제 풀이 [LeetCode 기록 보기](https://github.com/wlgh0702/Algorithm)
-  - IT 커뮤니티 서비스 개발 ([프로젝트 링크](여기에_링크))
+  - 암호화폐 커뮤니티 서비스 개발 ([프로젝트 링크](https://coin-talk.kr/))
 
 ---
 
 ## 💼 Projects
 
-### 1. IT 커뮤니티 플랫폼 (진행 중)
-> 개발자와 일반 사용자가 자유롭게 지식과 경험을 공유할 수 있는 커뮤니티 서비스  
-- **기간**: 2025.05 ~ 현재  
-- **기술 스택**: React, Node.js, Express, MySQL, AWS  
-- **주요 기능**: 회원가입/로그인, 게시판, 댓글, 알림, 북마크  
-- **진행 상황**: 베타 버전 개발 완료, 오픈 준비 중  
+### 1. 암호화폐 커뮤니티 플랫폼 (진행 중)
+> 암호화폐 관련 뉴스, 분석, 토론이 가능한 온라인 커뮤니티 서비스  
+- **기간**: 2025.05 ~ 현재
+- **기술 스택**: React, Node.js, Supabase, AWS  
+- **주요 기능**: 회원가입/로그인, 게시판, 댓글, 스크랩, 북마크, 실시간 시세 정
+- **진행 상황**: 베타 버전 개발 중, 오픈 준비 중  
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Contact
-- **Email**: your.email@example.com  
+- **Email**: parkjiho723@gmail.com
 - **GitHub**: [github.com/wlgh0702](https://github.com/wlgh0702)
 
 ---
