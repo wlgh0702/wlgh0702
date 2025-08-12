@@ -25,6 +25,7 @@
 - **기술 스택**: React, Node.js, Supabase, AWS  
 - **주요 기능**: 회원가입/로그인, 게시판, 댓글, 스크랩, 북마크, 실시간 시세 정보
 - **진행 상황**: 베타 버전 개발 중, 오픈 준비 중  
+![Coin Community Screenshot](https://github.com/user-attachments/assets/d1538ae3-7f1e-4b4d-8b45-482d4a93cdab)
 
 ---
 
