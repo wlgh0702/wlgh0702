@@ -39,7 +39,7 @@
 ## 📊 Algorithm Study
 꾸준한 문제 해결 능력 강화를 위해 알고리즘 문제 풀이를 기록하고 있습니다.  
 - [LeetCode 풀이 저장소](https://github.com/wlgh0702/Algorithm)  
-- Java, JavaScript 기반 문제 해결  
+- Java 기반 문제 해결  
 - 자료구조/알고리즘 유형별 정리 진행 중
 
 ---
